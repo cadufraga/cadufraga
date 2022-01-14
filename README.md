@@ -2,7 +2,7 @@
 ---
 ### 📲 Contact Me
 - 🌎 **Website** - [https://www.carlosfraga.com.br](https://www.carlosfraga.com.br)
-- 📧 **Email** - [mailto:carlos.fraga@outlook.com](carlos.fraga@outlook.com)
+- 📧 **Email** - [carlos.fraga@outlook.com](mailto:carlos.fraga@outlook.com)
 - 🔗 **LinkedIn** - [https://www.linkedin.com/in/cadufraga](https://www.linkedin.com/in/cadufraga)
 ---
 ### 👨🏻‍🎓 Academic Experience
