@@ -12,6 +12,6 @@
 ---
 ### 💼 Work Experience
 - 🧑‍🤝‍🧑 **People** - Tech Manager | Software Engineering Manager | Team Leader
-- 📉 **Agility** - Agile Coach | Agilist | Scrum Master
+- 📉 **Agile** - Agile Coach | Agilist | Scrum Master
 - 🎁 **Product** - Product Owner | IT System Analyst
 - 🔣 **Engineering** - Software Engineer | Software Developer
